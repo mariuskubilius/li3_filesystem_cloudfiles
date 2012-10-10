@@ -1,3 +1,6 @@
 [submodule "libraries/ZendService_Rackspace"]
 	path = libraries/ZendService_Rackspace
 	url = git://github.com/zendframework/ZendService_Rackspace.git
+[submodule "libraries/php-cloudfiles"]
+	path = libraries/php-cloudfiles
+	url = git@github.com:mariuskubilius/php-cloudfiles.git
